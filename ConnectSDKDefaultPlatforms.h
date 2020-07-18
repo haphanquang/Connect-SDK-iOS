@@ -21,7 +21,7 @@
 #ifndef kConnectSDKDefaultPlatforms
 
 #define kConnectSDKDefaultPlatforms (@{ \
-    @"AirPlayService"     : @"ZeroConfDiscoveryProvider", \
+    //@"AirPlayService"     : @"ZeroConfDiscoveryProvider",
     @"DIALService"        : @"SSDPDiscoveryProvider", \
     @"DLNAService"        : @"SSDPDiscoveryProvider", \
     @"NetcastTVService"   : @"SSDPDiscoveryProvider", \
